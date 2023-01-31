@@ -1,4 +1,4 @@
-module github.com/Fachrulmustofa20/cron-scheduler-go
+module github.com/Fachrulmustofa20/cron-scheduler-go-example
 
 go 1.19
 

@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Fachrulmustofa20/cron-scheduler-go/jobs"
+	"github.com/Fachrulmustofa20/cron-scheduler-go-example/jobs"
 	cron "github.com/robfig/cron/v3"
 )
 
